@@ -39,3 +39,5 @@ To run the dashboard, you need the following installed:
 2. This command will open a new tab in your default browser where you can interact with dashboard.
     
 
+### Deployed Dashboard
+[Click here to view the deployed Bike Rentals Dashboard](https://bike-rentals-visualization-j58vcz4wjwf8tm5niuorui.streamlit.app/)
